@@ -43,4 +43,5 @@ public class DetailB extends AppCompatActivity {
         Size.setText(detail.getSize());
     }
 
+
 }
